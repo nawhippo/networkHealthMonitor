@@ -25,8 +25,3 @@ This project aims to develop a comprehensive networking tool in Java. The tool i
 2. Ensure you have Java installed.
 3. Run the project to get started.
 
-### Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-### License
-This project is licensed under the MIT License.
